@@ -27,8 +27,5 @@ This was a collaborative project as part of my Master of Science in Analytics pr
 - Revealed 3 meaningful clusters based on age, time, and fatality patterns
 - Validated findings through statistical testing (ANOVA and Chi-Square)
 
-## How to Run
-Open and execute the `Notebook_2_Modeling_Environmental_Features.ipynb` file using Jupyter Notebook.
-
 ## Context
 This project was completed for the ISyE 7406: Data Mining & Statistical Learning course at Georgia Tech. It demonstrates the application of predictive modeling and clustering in real-world classification problems involving rare events.
